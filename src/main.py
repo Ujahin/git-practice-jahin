@@ -10,6 +10,7 @@ try:
 
     total = add(num1, num2)
 
+    print(f"Result: {num1} + {num2} = {total}")
     print(f"The sum of {num1} and {num2} is {total}.")
 
 except ValueError:
