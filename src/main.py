@@ -1,3 +1,5 @@
+print("Welcome to the Addition Program!")
+
 from datetime import date
 from utils import add
 
